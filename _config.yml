@@ -1,0 +1,28 @@
+name: test1974
+favicon: null
+layout_spectrum: 0.42422046791762114
+typography_spectrum: 0.5271432702429593
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.272902978817001
+  lightness: 0.3189751962199807
+  saturation: 0.0992498048581183
+  rhythmicContrast: 0.4420093442313373
+purpose: []
